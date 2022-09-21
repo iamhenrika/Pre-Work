@@ -26,6 +26,6 @@ html{
     .para2{color: darkseagreen;}
     .para3{color:azure}
     .relative1{position:relative;}
-    .relative2{position: relative; top: -40px; left: 40px; width: 600px;}
+    .relative2{position: relative; top: -10px; left: 10px; width: 600px;}
     input[type=button]:hover{ border: dashed; background-color:blanchedalmond}
 </style>
