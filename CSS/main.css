@@ -25,7 +25,6 @@ html{
     .para1{color:blueviolet}
     .para2{color: darkseagreen;}
     .para3{color:azure}
-    .footer{position: fixed; bottom: 0; left: 0; height: 80px; background-color: white; width: 100%;}
     .relative1{position:relative;}
     .relative2{position: relative; top: -40px; left: 40px; width: 600px;}
     input[type=button]:hover{ border: dashed; background-color:blanchedalmond}
